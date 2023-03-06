@@ -1,0 +1,114 @@
+.button1 {
+    margin-top: 18px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+
+.button2 {
+    margin-top: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.button3 {
+    margin-top: 18px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.button1:hover {
+    font-size: larger;
+}
+
+.button2:hover {
+    font-size: larger;
+}
+
+.button3:hover {
+    font-size: larger;
+}
+
+.yellowcar {
+    margin: auto -8px;
+    position: absolute;
+}
+
+.yellowcar:hover {
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.noti:hover {
+    color: red;
+    transition: 0.5s;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.noti {
+    margin-top: 750px;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.slide {
+    margin-top: 50px;
+    margin-left: -8px;
+}
+
+.slide:hover {
+    opacity: 0.5;
+    transition: 0.5s ease-out;
+    cursor: pointer;
+}
+
+.guys {
+    margin: auto -8px;
+    margin-top: 20px;
+}
+
+.guys:hover {
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.mens {
+    margin: auto -8px;
+    margin-top: 20px;
+}
+.mens:hover{
+    opacity: 0.5;
+transition: 0.5s;
+}
+
+
+.threepic{
+    display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+.pic1:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.pic2:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.pic3:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.note1:hover{
+    color: red;
+    cursor: pointer;
+    transition: 0.5s;
+    text-decoration: underline;
+
+}
